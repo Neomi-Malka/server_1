@@ -27,5 +27,4 @@ const books = [
     }
 ];
 
-// ייצוא המערך כדי שנוכל להשתמש בו בקובץ השרת
-module.exports = { books };
+export { books };
